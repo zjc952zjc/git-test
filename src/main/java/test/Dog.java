@@ -8,5 +8,6 @@ public class Dog {
         System.out.println("你好张建超4");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
